@@ -1,4 +1,5 @@
 {
-  "key": "key"m
-  "value": "value"
+  "key": "key",
+  "value": "value",
+  "coinId": 123
 }
